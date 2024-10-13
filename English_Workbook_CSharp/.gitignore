@@ -1,0 +1,95 @@
+# Build Folders (ignore bin & obj)
+bin/
+obj/
+[Bb]uild/
+[Ll]ogs/
+.vscode/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# C# Project Files
+project.lock.json
+project.fragment.lock.json
+*.csproj.user
+*.vcxproj.user
+*.code-workspace
+
+# Rider
+.idea/
+*.sln.iml
+*.sln.metatemp
+
+# Visual Studio Code workspace settings
+.vscode/
+
+# Visual Studio Code specific settings
+.vs/
+*.vs/
+
+# NuGet
+*.nupkg
+# Packages folder can be ignored because of Package Restore
+**/packages/
+# Uncomment if necessary however generally it will be regenerated when needed
+#!**/packages/repositories.config
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Azure Pipelines
+# Uncomment if you have azure pipelines yaml files in the root of your repo.
+#.azure-pipelines.yml
+
+# Web specific
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Local History for JetBrains IDEs
+.localhistory/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Mac System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# End of file
